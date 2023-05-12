@@ -3,6 +3,7 @@
 Reconozco que esta página necesita algo de amor ❤️ 
 
 Lo bueno es que acabo de pegarme la palmá de que este es un repo más y lo puedo trabajar desde mi local. Nice. Nos vimoh
+![gatitos para ti](https://www.mundogatos.com/Uploads/mundogatos.com/ImagenesGrandes/fotos-de-gatitos-2-0.jpg)
 <!--
 **CarlosPizarroMorales/CarlosPizarroMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
